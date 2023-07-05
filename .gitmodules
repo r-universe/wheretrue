@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wheretrue/wheretrue.r-universe.dev
 	branch = HEAD
+[submodule "exonr"]
+	path = exonr
+	url = https://github.com/wheretrue/exon
+	subdir = exon-r/exonr
